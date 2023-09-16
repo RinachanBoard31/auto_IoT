@@ -1,4 +1,4 @@
-# <font color="Violet">auto*IoT</font>
+# auto*IoT
 
 ## 紹介デモ動画　
 まだ未完成の部分がありアプリをリリースできていませんが、デモ動画を下記で公開しています。<br>
