@@ -1,16 +1,14 @@
-# auto_iot
+# auto*IoT
 
-A new Flutter project.
+## 紹介デモ動画
+まだ未完成の部分がありアプリをリリースできていませんが、デモ動画を下記で公開しています。<br>
+https://
 
-## Getting Started
+## 作品概要
+IoT機器を持っているが自動化機能を使いこなせないユーザに対し、**”いつも通り生活しているだけ”**で、パーソナライズされた機器操作の自動化を設定するシステムです。<br>
+つまり、”自動化機能を自動化”します。誰でも簡単に使え、便利なIoTをもっと効率的に使ってもらえるサービスを目指します。<br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## アピールポイント、こだわった点
+初心者にはちょっと難しい自動化機能を、いかに簡単に設定できるかにこだわっています。<br>
+このサービスの目玉は、ユーザの行動パターンを分析することで最適な機器操作を提案すること。<br>
+毎週自動化する操作内容が提案され、ユーザは自動化したい操作だけをボタンひとつで設定できます。
